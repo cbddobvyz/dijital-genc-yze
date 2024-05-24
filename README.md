@@ -31,4 +31,4 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 
 #### **[Makine Öğrenmesi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik-Makine%20Ogrenmesi")**
 
-- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik-Makine%20Ogrenmesi/Siniflandirma")**
+- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik-Makine%20Ogrenmesi/Siniflandirma)**
