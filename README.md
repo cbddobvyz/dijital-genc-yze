@@ -22,13 +22,13 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 ## **Aylık Webinarlar**
 
 * Webinar I - **Veri Operasyonları**
-* Webinar II - **[Veri Ön İşleme](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar-II-VeriOnisleme)**
+* Webinar II - **[Veri Ön İşleme](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-II-VeriOnisleme)**
 * Webinar III - **[Sağlıkta YZ Uygulamaları | Mamografi Görüntülerinden Kitle Tespiti-I](https://github.com/cbddobvyz/digitaleye-mammography)**
-* Webinar IV - **[Sağlıkta YZ Uygulamaları | Mamografi Görüntülerinden Kitle Tespiti-II](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar-IV-Sa%C4%9Fl%C4%B1kta%20YZ%20Uygulamalar%C4%B1%20%7C%20Mamografi%20G%C3%B6r%C3%BCnt%C3%BClerinden%20Kitle%20Tespiti-II)**
-* Webinar V - **[Ozellik Muhendisligi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar-V-Ozellik%20Muhendisligi)**
+* Webinar IV - **[Sağlıkta YZ Uygulamaları | Mamografi Görüntülerinden Kitle Tespiti-II](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-IV-Sa%C4%9Fl%C4%B1kta%20YZ%20Uygulamalar%C4%B1%20%7C%20Mamografi%20G%C3%B6r%C3%BCnt%C3%BClerinden%20Kitle%20Tespiti-II)**
+* Webinar V - **[Ozellik Muhendisligi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-V-Ozellik%20Muhendisligi)**
 
 ## **Tematik Eğitimler**  
 
-#### **[Makine Öğrenmesi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik-Makine%20Ogrenmesi)**
+#### **[Makine Öğrenmesi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik/Makine%20Ogrenmesi)**
 
-- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik-Makine%20Ogrenmesi/Siniflandirma)**
+- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik/Makine%20Ogrenmesi/Siniflandirma)**
