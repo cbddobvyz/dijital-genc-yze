@@ -34,3 +34,5 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 - **[Kumeleme - Regresyon](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Kumeleme_Regresyon)**
 
 - **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Siniflandirma)**
+
+- **[Uygulama - 1](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Uygulama_1)**
