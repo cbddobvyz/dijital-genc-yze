@@ -36,3 +36,5 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 - **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Siniflandirma)**
 
 - **[Uygulama - 1](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Uygulama_1)**
+
+- **[Uygulama - 2](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Uygulama_2)**
