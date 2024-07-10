@@ -29,12 +29,17 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 
 ## **Tematik Eğitimler**  
 
-#### **[Makine Öğrenmesi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi)**
+#### **[Derin Öğrenme ile Görüntü İşleme (Temmuz 2024)](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024)**
 
-- **[Kumeleme - Regresyon](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Kumeleme_Regresyon)**
+- **[Görüntü İşleme, Yapay Sinir Ağları, Derin Öğrenme - Giriş](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024/Goruntu_Isleme_Yapay_Sinir_Aglari_Derin_Ogrenme_Giris)**
 
-- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Siniflandirma)**
+#### **[Makine Öğrenmesi (Mayıs 2024)](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024)**
 
-- **[Uygulama - 1](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Uygulama_1)**
+- **[Kumeleme - Regresyon](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024/Kumeleme_Regresyon)**
 
-- **[Uygulama - 2](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi/Uygulama_2)**
+- **[Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024/Siniflandirma)**
+
+- **[Uygulama - 1](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024/Uygulama_1)**
+
+- **[Uygulama - 2](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024/Uygulama_2)**
+
