@@ -19,6 +19,8 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 
 </div>
 
+## **[DDYM Yapay Zeka Egitimleri](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/DDYM_Yapay_Zeka_Egitimi_2024)**
+
 ## **Aylık Webinarlar**
 
 * Webinar I - **Veri Operasyonları**
