@@ -37,7 +37,8 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 
 #### **[Derin Öğrenme ile Görüntü İşleme (Temmuz 2024)](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024)**
 
-- **[Görüntü İşleme, Yapay Sinir Ağları, Derin Öğrenme - Giriş](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024/Goruntu_Isleme_Yapay_Sinir_Aglari_Derin_Ogrenme_Giris)**
+- **[Görüntü İşleme, Yapay Sinir Ağları, Derin Öğrenme - Giriş-Sınıflandırma](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024/Goruntu_Isleme_Yapay_Sinir_Aglari_Derin_Ogrenme_Giris)**
+- **[Görüntü İşleme, Yapay Sinir Ağları, Derin Öğrenme - Nesne Tespiti](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Derin_Ogrenme_ile_Goruntu_Isleme_Temmuz_2024/Nesne_Tespiti)**
 
 #### **[Makine Öğrenmesi (Mayıs 2024)](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Mayis_2024)**
 
