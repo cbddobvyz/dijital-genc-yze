@@ -1,0 +1,4 @@
+train: /workspace/notebooks/webinar/data/Fold0/train/images
+val: /workspace/notebooks/webinar/data/Fold0/validation/images
+nc: 1
+names: ["MASS"]
