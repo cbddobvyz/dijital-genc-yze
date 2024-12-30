@@ -28,7 +28,7 @@ Soru, görüş ve önerileriniz için Başkanlığımızla dijitalgenc@cbddo.gov
 * Webinar III - **[Sağlıkta YZ Uygulamaları | Mamografi Görüntülerinden Kitle Tespiti-I](https://github.com/cbddobvyz/digitaleye-mammography)**
 * Webinar IV - **[Sağlıkta YZ Uygulamaları | Mamografi Görüntülerinden Kitle Tespiti-II](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-IV-Sa%C4%9Fl%C4%B1kta%20YZ%20Uygulamalar%C4%B1%20%7C%20Mamografi%20G%C3%B6r%C3%BCnt%C3%BClerinden%20Kitle%20Tespiti-II)**
 * Webinar V - **[Ozellik Muhendisligi](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-V-Ozellik%20Muhendisligi)**
-
+* Webinar VII - **[YOLO ile Mamografi Görüntülerinden Kitle Tespit Uygulaması](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Webinar/Webinar-VII-YOLO%20ile%20Mamografi%20G%C3%B6r%C3%BCnt%C3%BClerinden%20Kitle%20Tespit%20Uygulamas%C4%B1)**
 ## **Tematik Eğitimler**  
 
 #### **[Makine Öğrenmesi (Temmuz 2024)](https://github.com/cbddobvyz/dijital-genc-yze/tree/main/Tematik_Egitimler/Makine_Ogrenmesi_Temmuz_2024)**
